@@ -1,0 +1,4 @@
+name: TeleportPlugin-By-Farbiger
+version: ${project.version}
+main: de.farbiger.teleportplugin
+api-version: 1.16
